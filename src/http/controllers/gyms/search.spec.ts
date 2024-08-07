@@ -55,7 +55,5 @@ describe('Search Gyms(e2e)', () => {
                 title: 'JavaScript Gym'
             })
         ])
-
-
     })
 })
